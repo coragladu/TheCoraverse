@@ -1,0 +1,11 @@
+      h1, h2 {
+       text-align: center;}
+	   main {background-color: mediumpurple }
+	   hr {height:3px; background-color: blue; border-color:blue;}
+	   a {color:black;}
+	   h1 {background-color:cyan}
+	  .paragraphs {margin-left: 10%; margin-right: 10%}
+.center {Display:block; margin-left:auto; margin-right:auto;}
+figure figcaption {
+    border: 1px dotted blue;
+    text-align: center;

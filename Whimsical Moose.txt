@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>TheCoraVerse</title>
+<style>
+      h1, h2 {
+       text-align: center;}
+	   main {background-color: deepskyblue }
+	   hr {height:3px; background-color: blue; border-color:blue;}
+	   a {color:black;}
+ </style>
+	<h><em><a href="file:///C:/Users/grego/OneDrive/Desktop/Passenger%20Princess/Coraverse/Coraswebsite.html">TheCoraverse</a></em></2>
+	<main>
+<section>
+	<h1>Whimsical Moose</h1>
+	<hr>
+	<figure>
+	<img src="C:\Users\grego\Downloads\IMG_2152.jpg"/><figcaption> Finished Product</figcaption>
+	<figure>
+	<ul>
+		<li>Pattern from Fabrications Ottawa </li>
+		<li>Created July **- August**,2023</li>
+	</ul>
+	</section>
+	<hr>
+	<section>
+<p> Write about project here......</P>
+</section>
+<form>
+<fieldset> 
+<legend>Leave a comment!</legend>
+<input type="text" name="gladu.cora@gmail.com" placeholder="..." required>
+<button type="submit">Submit</button>
+</form>
